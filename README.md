@@ -2,6 +2,8 @@
 
 Collection of demo applications based on Udash.
 
+# Note: this repository is not updated for Udash 0.8+. If you're looking to setup a Udash application, please check out the [g8 template](https://github.com/UdashFramework/udash.g8). Some of these demos will be updated after the 1.0 release and available either within the template or [Udash Guide](https://guide.udash.io/).
+
 ## Udash Files Upload
 
 A demo presenting usage of the Udash file upload/download utilities. It also uses the Udash Bootstrap and RPC modules. 
